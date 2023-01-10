@@ -1,0 +1,300 @@
+  227  vi .gitignore
+  228  git status
+  229  vi .gitignore
+  230  git status
+  231  ls -a
+  232  git status --ignored
+  233  git log
+  234  git reset --hard� 9ad3761986fdb07f11497471f45c378bad807787
+  235  pwd
+  236  git log
+  237  git reset --hard 9ad3761986fdb07f11497471f45c378bad807787
+  238  git log
+  239  pwd
+  240  ls -a
+  241  ls trash
+  242  ls documents
+  243  touch .gitignore
+  244  ls -a
+  245  vi .gitignore
+  246  git status
+  247  ls exec_command.log
+  248  mv gizumo20.md gizumo200.md
+  249  cd trash
+  250  mv gizumo20.md gizumo200.md
+  251  git status
+  252  mv gizumo200.md gizumo20.md
+  253  git status
+  254  git rm -cached gizumo{20..29}.md
+  255  git rm --cached gizumo{20..29}.md
+  256  git status
+  257  pwd
+  258  cd ..
+  259  ls -a
+  260  vi .gitignore
+  261  git status
+  262  git status --ignored
+  263  vi .gitignore
+  264  vi .gitignore
+  265  git rm --catched gizumo{20..29}.md
+  266  git rm --cached gizumo{20..29}.md
+  267  cd trash
+  268  git status
+  269  vi .gitignore
+  270  ped
+  271  pwd
+  272  cd //
+  273  cd ..
+  274  pwd
+  275  ls
+  276  cd root
+  277  ls
+  278  cd server_lesson
+  279  ls
+  280  cd linux_practice2
+  281  ls
+  282  ls -a
+  283  vi .gitignore
+  284  git status
+  285  vi .gitignore
+  286  git status
+  287  vi .gitignore
+  288  git status
+  289  vi .gitignore
+  290  git status
+  291  pwd
+  292  cd .gitignore
+  293  cd trash
+  294  vi .gitignore
+  295  git status
+  296  vi .gitignore
+  297  git status
+  298  pwd
+  299  cd ..
+  300  git log
+  301  vi .gitignore
+  302  git status
+  303  git status --ignored
+  304  git status
+  305  cd trash
+  306  ls -a
+  307  rm .gitignore
+  308  ls -a
+  309  git status
+  310  git log
+  311  git reset --hard 9ad3761986fdb07f11497471f45c378bad807787
+  312  ls
+  313  cd ..
+  314  ls
+  315  ls -a
+  316  cd ..
+  317  ls
+  318  cd linux_practice2
+  319  ls exec_command.log
+  320  git status
+  321  ls exec_command.log/exec_command.log
+  322  pwd
+  323  ls exec_command.log
+  324  ls exec_command.log
+  325  cd exec_command.log
+  326  git status
+  327  vi .gitignore
+  328  vi .gitignore
+  329  git rm --cached trash/gizumo{20..29}.md
+  330  git status
+  331  vi .gitignore
+  332  git status
+  333  history300>>exec_command.log
+  334  history 300>>exec_command.log
+  335  ls
+  336  ls exec_command.log
+  337  git status
+  338  git add .
+  339  git status
+  340  ls /trash
+  341  cd trash
+  342  ls
+  343  ls -a
+  344  cd ..
+  345  ls -a
+  346  ls exec_command.log
+  347  git log
+  348  git reset --hard 9ad3761986fdb07f11497471f45c378bad807787
+  349  git status
+  350  ls -a
+  351  touch .gitignore
+  352  ls -a
+  353  ls trash
+  354  ls documents
+  355  vi .gitignore
+  356  git status
+  357  git rm --catched trash/gizumo{20..29}.md
+  358  git rm --cached trash/gizumo{20..29}.md
+  359  git status
+  360  git add .
+  361  git status
+  362  git commit -m 'linux q2-3,4'
+  363  git log
+  364  history 300>>exec_command.log
+  365  ls
+  366  ls -a
+  367  git status
+  368  git add .
+  369  git status
+  370  git commit -m 'linux q2-5'
+  371  git log
+  372  git status
+  373  tree src
+  374  git remote add origin
+  375  git remote add origin� https://github.com/watanabe-kotomi/linux_test.git
+  376  git remote -v
+  377  git push origin master
+  378  git push origin master
+  379  git remote add origin https://github.com/watanabe-kotomi/linux_test.git
+  380  git push origin master
+  381  git remote add origin https://github.com/watanabe-kotomi/linux_test.git
+  382  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
+  383  git remote -v
+  384  git push origin master
+  385  git push origin master
+  386  exit
+  387  docker ps
+  388  docker images
+  389  docker ps
+  390  docker stop centos7
+  391  ls
+  392  cd root
+  393  ls
+  394  mkdir docker_lesson && cd docker_lesson
+  395  ls
+  396  git clone https://github.com/gizumo-education/docker_training.git
+  397  ls
+  398  cd ..
+  399  ls
+  400  cd docker_lesson
+  401  ls
+  402  cd docker_training
+  403  ls
+  404  cd docker-compose.yml
+  405  vi docker-compose.yml
+  406  vi docker-compose.yml
+  407  cd docker_training
+  408  docker-compose up -d
+  409  pwd
+  410  docker-compose up -d
+  411  docker version
+  412  docker start
+  413  ls
+  414  cd ..
+  415  ls
+  416  pwd
+  417  cd docker_training
+  418  docker-compose up -d
+  419  sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
+  420  centos7 -v
+  421  cat /etc/redhat-release
+  422  exit
+  423  ls
+  424  local
+  425  exit
+  426  localedef -f UTF-8 -i ja_JP ja_JP
+  427  localectl list-locales | grep -i ja
+  428  ja_JP.utf8
+  429  local status
+  430  localectl status
+  431  ls
+  432  cd root
+  433  ls
+  434  cd docker_lesson
+  435  ls
+  436  cd docker_training
+  437  docker-compose up -d
+  438  docker-compose version
+  439  sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
+  440  docker -v
+  441  ls
+  442  cd..
+  443  ls
+  444  cd ..
+  445  ls
+  446  cd ..
+  447  ls
+  448  rm -r docker_lesson
+  449  y
+  450  y
+  451  y
+  452  y
+  453  y
+  454  y
+  455  y
+  456  y
+  457  y
+  458  y
+  459  y
+  460  y
+  461  y
+  462  y
+  463  y
+  464  y
+  465  y
+  466  y
+  467  y
+  468  y
+  469  y
+  470  y
+  471  y
+  472  y
+  473  y
+  474  y
+  475  y
+  476  y
+  477  y
+  478  y
+  479  y
+  480  y
+  481  y
+  482  y
+  483  y
+  484  y
+  485  y
+  486  y
+  487  y
+  488  y
+  489  y
+  490  y
+  491  y
+  492  y
+  493  y
+  494  y
+  495  y
+  496  ls
+  497  rm -r docker_lesson
+  498  y
+  499  ls
+  500  exit
+  501  ls
+  502  pwd
+  503  cd roo
+  504  cd root
+  505  ls
+  506  cd server_lesson
+  507  ls
+  508  cd linux_practice2
+  509  git status
+  510  git commit -m'記述を正規表現に修正'
+  511  git log
+  512  vi ~/.vimrc
+  513  source ~/.vimrc
+  514  git satus
+  515  git status
+  516  git log
+  517  set encoding=utf-8
+  518  vi ~/.vimrc
+  519  source ~/.vimrc
+  520  git log
+  521  echo $LANG
+  522  ja_JP.utf8
+  523  localectl set-locale LANG=ja_JP.UTF-8
+  524  pwd
+  525  ls
+  526  history 300 > exec_command.log
